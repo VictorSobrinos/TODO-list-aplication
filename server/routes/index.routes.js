@@ -7,4 +7,8 @@ router.get("/", (req, res, next) => {
 // You put the next routes here 👇
 // example: router.use("/auth", authRoutes)
 
+router.use('/tasks', (req, res, next) => {
+  res.json('All the tasks')
+})
+
 module.exports = router;
