@@ -1,5 +1,5 @@
 # TODO list Project
-Simple project with typeScript
+Simple project with typeScript using DOM
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
